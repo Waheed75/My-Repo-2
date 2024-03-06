@@ -1,0 +1,5 @@
+#include<iostrean>
+using namespace std;
+int main(){
+cout<<"My name is :"<<"ABDUL WAHEED"<<endl;
+cout<<"My Roll Number is :"<<"23_st_040"<<endl;
