@@ -3,3 +3,10 @@ using namespace std;
 int main(){
 cout<<"My name is :"<<"ABDUL WAHEED"<<endl;
 cout<<"My Roll Number is :"<<"23_st_040"<<endl;
+cout<<"Math"<<endl;
+cout<<"English"<<endl;
+cout<<"Pak Study"<<endl;
+cout<<" Chemistry"<<endl;
+cout<<"Physics"<<endl;
+cout<<"Urdu"<<endl;
+}
