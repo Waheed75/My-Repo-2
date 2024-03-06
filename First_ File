@@ -9,4 +9,12 @@ cout<<"Pak Study"<<endl;
 cout<<" Chemistry"<<endl;
 cout<<"Physics"<<endl;
 cout<<"Urdu"<<endl;
+cout<<"first semester:"<<endl;
+cout<<"ICT"<<endl;
+cout<<"Math"<<endl;
+cout<<"MS Word Lab"<<endl;
+cout<<"physics"<<endl;
+cout<<"islamiyat"<<endl;
+cout<<"Programming LAb"<<endl;
+cout<<"Physics Lab"<<endl;
 }
