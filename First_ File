@@ -17,4 +17,10 @@ cout<<"physics"<<endl;
 cout<<"islamiyat"<<endl;
 cout<<"Programming LAb"<<endl;
 cout<<"Physics Lab"<<endl;
+Cout<<"Second semester:"<<endl;
+cout<<"1. Programming"<<endl;
+cout<<"2. Matrh"<<endl;
+cout<<"3. Islamiyat"<<endl;
+cout<<"4.SCM"<<endl;
+cout<<"5.SCM Lab"<<endl;
 }
